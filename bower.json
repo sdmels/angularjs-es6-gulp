@@ -1,0 +1,26 @@
+{
+  "name": "angularjs-es6-gulp",
+  "description": "A sample setup how to use Angular 1.5 with ES 6, Babel, Gulp and browserify",
+  "authors": [
+    "sdmels"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angularjs",
+    "es6",
+    "gulp"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests",
+    "build"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7"
+  }
+}
